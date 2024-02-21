@@ -1,6 +1,10 @@
 <template>
-	<div>
-		<ul class="flex gap-10">
+	<div
+		class="absolute md:relative top-32 md:top-0 text-center md:text-left flex justify-center w-full md:w-auto"
+	>
+		<ul
+			class="flex gap-10 flex-col justify-center md:flex-row p-10 bg-white md:bg-transparent mx-auto w-3/4"
+		>
 			<LinkNavbar text="Home" />
 			<LinkNavbar text="About" />
 			<LinkNavbar text="Contact" />

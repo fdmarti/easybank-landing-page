@@ -1,5 +1,5 @@
 <template>
-	<section class="relative w-full md:w-1/2 h-96 md:h-svh -z-10">
+	<section class="relative w-full md:w-1/2 h-96 sm:h-[650px] md:h-svh -z-10">
 		<div
 			class="absolute bg-hero bg-cover bg-no-repeat bg-center w-svw h-96 md:h-screen"
 		></div>
